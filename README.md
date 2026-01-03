@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Teena
 
-<!--
-**teenag015-ai/teenag015-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA student  
+💻 Python developer  
+🤖 Interested in AI, ML & data-driven solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python programming
+- Data Structures & Algorithms
+- Machine Learning basics
+
+---
+
+### 📌 Projects
+- **Python Learning Journey** – Daily practice from Udemy 100 Days of Code
+
+---
+
+### ✨ About Me
+I am an MCA student passionate about software development and continuously improving my skills by building projects and learning new technologies.
+
+📍 India
